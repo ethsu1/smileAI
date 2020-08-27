@@ -131,7 +131,12 @@ class Camera extends React.Component{
 							</p>
 						</Row>
 						<Row className="justify-content-md-center">
+							<p>Code for neural network:&nbsp;</p>
 							<a href="https://github.com/ethsu1/convnet_numpy">github.com/ethsu1/convnet_numpy</a>
+						</Row>
+						<Row className="justify-content-md-center">
+							<p>Code for UI:&nbsp;</p>
+							<a href="https://github.com/ethsu1/smileAI">github.com/ethsu1/smileAI</a>
 						</Row>
 					</Jumbotron>
 				<Grid container direction="row" justify="center" spacing={5}>
