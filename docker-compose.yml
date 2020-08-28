@@ -1,0 +1,10 @@
+version: '3.3'
+
+services:
+  backend:
+    image: ethsu/smileai:backend
+    expose:
+      - 8000
+    ports:
+      - 8000:8000
+    

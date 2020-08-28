@@ -6,3 +6,5 @@ wanted to gain a deeper understanding of neural networks. So when detecting smil
 my implementation may take a while to predict if there is a smile in the photo or not.
 
 You can view my convolutional neural network library at https://github.com/ethsu1/convnet_numpy
+
+Try out the smile detecting web application at https://smileai.azurewebsites.net

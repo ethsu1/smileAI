@@ -1,0 +1,13 @@
+.title {
+	color: #0099ff;
+}
+
+.video {
+	-moz-o-transform: scaleX(-1); 
+	-webkit-transform: scaleX(-1); 
+	transform: scaleX(-1);
+}
+
+.probability {
+	color:black;
+}
